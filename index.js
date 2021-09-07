@@ -4,3 +4,5 @@ const getTable = (numero) => {
   }
 };
 getTable(7)
+
+console.log(`Como los quiero ❤️`);
